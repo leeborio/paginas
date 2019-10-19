@@ -1,6 +1,6 @@
 
 <div
-style="color:red;"
+style="font-family:helvetica, verdana;"
 >
 
 <p>
