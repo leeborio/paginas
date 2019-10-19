@@ -1,21 +1,3 @@
+Jupyter Notebooks
 
-<div
-style="font-family:helvetica, verdana;"
->
-
-<p>
-ok
-</p>
-
-</div>
-
-
-<div
-style="font-family:monospace; font-size:1.25em;"
->
-
-<p>
-ok
-</p>
-
-</div>
+[897_select_filter_20191015](https://nbviewer.jupyter.org/github/leeborio/paginas/blob/master/cognitiveclass/897_select_filter_20191015.ipynb)
