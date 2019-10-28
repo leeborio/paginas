@@ -1,0 +1,5 @@
+unit_id,city,state,amount,bed,bath,garage
+3843,"Los Angeles",CA,"$847,394",4,3,yes
+4798,"New York",NY,"$1,348,900",3,4,no
+4678,"Fort Lauderdale",FL,"$543,899",3,2,yes
+8749,"Austin",TX,"$684,900",3,2,no
